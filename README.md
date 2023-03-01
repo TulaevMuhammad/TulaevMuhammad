@@ -26,9 +26,7 @@ Soft Skills:
 
 - Problem Solving, TeamWork, Communication 
 
-![Muhammad's github stats](https://github-readme-stats.vercel.app/api?username=IhChowdhury&show_icons=true&theme=radical)
-
 ----
 Credit: [IhChowdhury](https://github.com/IhChowdhury)
 
-Last Edited on: 23/09/2020
+Last Edited on: 01/03/2022
