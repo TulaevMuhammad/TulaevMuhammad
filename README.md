@@ -25,7 +25,13 @@ Soft Skills:
 
 - Problem Solving, TeamWork, Communication 
 
+<p align="center">
+  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+<br/>
+
 ----
+
 Credit: [Tulaev Muhammad](https://github.com/TulaevMuhammad)
 
 Last Edited on: 01/03/2023
