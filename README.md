@@ -16,21 +16,19 @@ Tech Stack:
 
 - Backend: Java8, Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices
 - Frontend: HTML5, CSS3, Jquery
-- Database: Oracle Sql, MySql
-- Build tools: Maven
+- Database: Postgresql
+- Build tools: Maven, Gradle
 - Servers: Tomcat
-- Cloud: AWS
+- Cloud:
 - Version Control: Git
-- Prototyping: JustInMind
-- IDE: Intellij IDEA, VS Code, Eclips, Netbeans
-- Operating System: Linux, Mac, Windows
-- Project Management:Scrum
+- IDE: Intellij IDEA, VS Code
+- Operating System: Linux, Windows
 
 Soft Skills:
 
 - Problem Solving, TeamWork, Communication 
 
-![Ibrahim's github stats](https://github-readme-stats.vercel.app/api?username=IhChowdhury&show_icons=true&theme=radical)
+![Muhammad's github stats](https://github-readme-stats.vercel.app/api?username=IhChowdhury&show_icons=true&theme=radical)
 
 ----
 Credit: [IhChowdhury](https://github.com/IhChowdhury)
