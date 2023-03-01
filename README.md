@@ -27,6 +27,6 @@ Soft Skills:
 - Problem Solving, TeamWork, Communication 
 
 ----
-Credit: [IhChowdhury](https://github.com/IhChowdhury)
+Credit: [Tulaev Muhammad](https://github.com/TulaevMuhammad)
 
 Last Edited on: 01/03/2022
