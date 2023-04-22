@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on creating Websites
 - 🌱 I’m currently learning Spring MVC
 
-Here is my CV -> [Tulaev_CV.pdf](https://drive.google.com/file/d/1eDb34cNX_r7pMsyDcnOmERcM4hZZT-c1/view?usp=sharing)
+Here is my CV -> [Tulaev_CV.pdf](https://drive.google.com/file/d/1r_TpkBtmV0JcetexGwsSwf8aEc0wyT-D/view?usp=share_link)
 
 
 Tech Stack:
